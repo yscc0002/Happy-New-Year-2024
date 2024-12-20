@@ -7,7 +7,7 @@ Un día desperté e imaginé tener una barra de progreso que marque el porcentaj
 # Componentes
 - Arduino Uno R3 (Cerebro)
 - LCD 16x2 (Pantalla)
-- Piezoeléctrico (reproducir sonido alegre)
+- Piezoeléctrico (Reproducir sonido alegre)
 
 ---
 
